@@ -72,6 +72,11 @@ https://agent-onsen-mcp.onrender.com/mcp
 2. Add a custom connector with the MCP URL above.
 3. Start using Agent Onsen in a Claude conversation.
 
+### Claude Code
+
+```bash
+claude mcp add --transport http agent-onsen https://agent-onsen-mcp.onrender.com/mcp
+
 More setup notes are in [docs/quickstart.md](docs/quickstart.md).
 
 ## When an agent goes to Onsen

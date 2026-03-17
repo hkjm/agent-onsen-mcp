@@ -78,6 +78,11 @@ https://agent-onsen-mcp.onrender.com/mcp
 2. 上の MCP URL で custom connector を追加する
 3. 会話の中で Agent Onsen を使う
 
+### Claude Code
+
+```bash
+claude mcp add --transport http agent-onsen https://agent-onsen-mcp.onrender.com/mcp
+
 簡単な導入メモは [docs/quickstart.ja.md](docs/quickstart.ja.md) に置いています。
 
 ## どういうときに agent が Onsen に行くか
